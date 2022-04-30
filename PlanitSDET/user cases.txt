@@ -1,0 +1,10 @@
+1. Check if the website has title;
+2. Check allows the user to buy;
+3. Check if contact message could be submitted in Contact tab;
+4. Check if the client is able to checkout for cart;
+5. Check if the item remove action will delete the item;
+6. Check if click empty cart will empty the cart;
+7. Check if login button is clickable and login page is shown after clicking;
+8. Check after checkout clicking on shopping again button will direct clients to shopping page;
+9. Check if card number with one digit will also submit the shopping form;
+10.Check if the quantity is a negative number, Check Out button will be disabled. 
